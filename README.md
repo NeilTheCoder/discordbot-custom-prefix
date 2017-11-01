@@ -12,3 +12,7 @@
   **Tbh, none helped me except me.**  
   My Username: **Boujee#9310**  
   My Server: **https://discord.gg/xTwAJNu**
+
+### Questions
+  **Q**: Ain't fs an API of Node?  
+  **A**: It is, and you don't need to Install, but it will give you the Experimental one, so i suggest, install it.
