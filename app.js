@@ -14,6 +14,7 @@ bot.on('guildCreate', (guild) => { // If the Bot was added on a server, proceed
 	guildConf[guild.id] = {
 		prefix: config.prefix
 	}
+    }
      fs.writeFile('./storages/guildConf.json', JSON.stringify(guildConf, null, 2), (err) => {
      	if (err) console.log(err)
 	})
